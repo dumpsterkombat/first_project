@@ -16,4 +16,3 @@ public class Praktikum {
   }
 
 }
-LET'S CHECK
